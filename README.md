@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jergun&label=Profile%20views&color=0e75b6&style=flat" alt="jergun" /> </p>
 
 - 🔭 I’m currently studying in Software Engineering at University of Phayao.
-- 🌱 I’m currently learning Node.js & Flutter
+- 🌱 I’m currently learning Blockchain & React
 - 📫 How to reach me: Pawaret.Muengkaew@outlook.com
 - ⚡ Fun fact: I love to sing a song. 🤣
 
