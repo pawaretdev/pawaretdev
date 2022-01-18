@@ -8,8 +8,8 @@
 - ⚡ Fun fact: I love to sing a song. 🤣
 
 <p align="center">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=jergun&theme=shades-of-purple&show_icons=true&locale=en" alt="jergun" />
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jergun&langs_count=10&layout=compact&theme=shades-of-purple" alt="jergun" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=jergun&theme=shades-of-purple&show_icons=true&locale=en" alt="jergun" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jergun&langs_count=10&layout=compact&theme=shades-of-purple" alt="jergun" />
 </p>
 
 <p align="center">
