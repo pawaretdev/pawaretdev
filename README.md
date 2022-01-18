@@ -7,11 +7,12 @@
 - 📫 How to reach me: Pawaret.Muengkaew@outlook.com
 - ⚡ Fun fact: I love to sing a song. 🤣
 
-<br />
+<p align="center">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=jergun&theme=shades-of-purple&show_icons=true&locale=en" alt="jergun" />
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jergun&langs_count=10&layout=compact&theme=shades-of-purple" alt="jergun" />
+</p>
 
----
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jergun&theme=shades-of-purple&show_icons=true&locale=en" alt="jergun" />
-</details>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
