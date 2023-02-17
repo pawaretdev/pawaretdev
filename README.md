@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently studying in Software Engineering at University of Phayao.
-- 🌱 I’m currently learning Blockchain & React
+- 🌱 I’m currently learning Blockchain concepts, Solidity and NestJS
 - 📫 How to reach me: Pawaret.Muengkaew@outlook.com
 - ⚡ Fun fact: I love to sing a song. 🤣
 
