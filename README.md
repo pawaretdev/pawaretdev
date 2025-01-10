@@ -1,7 +1,7 @@
 # Hi there, I'm Gong 👋
 
 <p float="left"> 
-  <img src="https://komarev.com/ghpvc/?username=jergun&label=Profile%20views&color=0e75b6&style=flat" alt="jergun" /> 
+  <img src="https://komarev.com/ghpvc/?username=pawaretdev&label=Profile%20views&color=0e75b6&style=flat" alt="pawaretdev" /> 
   <a href="https://wakatime.com/@9d428ed7-f009-46c0-ab5f-a18fe7073753"><img src="https://wakatime.com/badge/user/9d428ed7-f009-46c0-ab5f-a18fe7073753.svg" alt="Total time coded since Feb 21 2022" /></a>
 </p>
 
@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=jergun&theme=shades-of-purple&show_icons=true&locale=en" alt="jergun" />
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jergun&langs_count=10&layout=compact&theme=shades-of-purple" alt="jergun" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=pawaretdev&theme=shades-of-purple&show_icons=true&locale=en" alt="pawaretdev" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawaretdev&langs_count=10&layout=compact&theme=shades-of-purple" alt="pawaretdev" />
 </p>
 
 <p align="center">
