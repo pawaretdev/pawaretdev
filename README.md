@@ -9,3 +9,5 @@
 - 🌱 I’m currently learning Blockchain concepts, Solidity and NestJS
 - 📫 How to reach me: pawaret.m@outlook.com
 - ⚡ Fun fact: I love to sing a song. 🤣
+
+![Pawaret's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@pawaret\&layout=compact)
